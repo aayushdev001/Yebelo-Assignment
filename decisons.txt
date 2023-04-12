@@ -1,0 +1,4 @@
+As there was a requirement for one table so I have a single entity named category which has category code 
+and value as the two fields, where category code is the primary key. In the controller layer I have
+implemented two APIs. The first api is to add a category to the database which takes a category object as
+the parameter. In the second api I have implemented the functionality which was asked in the document.
